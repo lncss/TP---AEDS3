@@ -57,4 +57,4 @@ public class Lzw {
         return resp.toString(); //retorna a resposta em formato de string
     }
 
-}
+} 
